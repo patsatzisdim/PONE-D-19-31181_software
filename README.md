@@ -1,5 +1,5 @@
-# PCOMPBIOL-D-19-00752R1_software
-Software running the simulations made for PCOMPBIOL-D-19-00752R1 manuscript
+# Software of PONE-D-19-31181 DOI: 10.1371/journal.pone.0226094
+Software running the simulations made for PONE-D-19-31181 manuscript
 
 
 The simulations are divided in 4 folders:
